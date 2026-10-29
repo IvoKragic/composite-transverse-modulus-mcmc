@@ -1,0 +1,16 @@
+{
+  "title": "MATLAB code for Bayesian model selection and parameter estimation of the transverse elastic modulus of a composite ply",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "language": "eng",
+  "creators": [
+    {"name": "Perišić, Stipe", "affiliation": "University of Split, FESB"},
+    {"name": "Marinić-Kragić, Ivo", "affiliation": "University of Split, FESB"},
+    {"name": "Vlak, Frane", "affiliation": "University of Split, FESB"},
+    {"name": "Barle, Jani", "affiliation": "University of Split, FESB"}
+  ],
+  "keywords": ["Bayesian inference", "MCMC", "RJMCMC", "model selection", "micromechanics", "composite materials"],
+  "related_identifiers": [],
+  "description": "<p>MATLAB implementation of the Bayesian analysis used in the accompanying manuscript on micromechanical model selection and parameter estimation of the transverse elastic modulus E<sub>2</sub> of a unidirectional composite ply.</p><p>Contents: Metropolis-Hastings MCMC and a model-switching (equal-dimension RJMCMC) chain; three micromechanical models (Halpin-Tsai with xi = 2, Halpin-Tsai with the Hewitt-de Malherbe reinforcement factor, and Puck); the digitised 15-point glass-epoxy data set; and <code>run_all.m</code>, which reproduces Table 6 and Supplementary Tables S1-S4 of the paper. Requires MATLAB R2026b and the Statistics and Machine Learning Toolbox.</p>"
+}
