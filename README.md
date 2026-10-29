@@ -1,5 +1,9 @@
 # composite-transverse-modulus-mcmc
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23774307.svg)](https://doi.org/10.5281/zenodo.23774307)
+
+Archived version of this release: https://doi.org/10.5281/zenodo.23774307
+
 MATLAB code — Bayesian model selection of the transverse modulus of a composite ply
 
 Code accompanying the manuscript
