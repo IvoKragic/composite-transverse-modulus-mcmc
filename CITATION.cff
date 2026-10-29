@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying article and this repository."
+title: "MATLAB code for Bayesian model selection and parameter estimation of the transverse elastic modulus of a composite ply"
+type: software
+authors:
+  - family-names: Perišić
+    given-names: Stipe
+  - family-names: Marinić-Kragić
+    given-names: Ivo
+  - family-names: Vlak
+    given-names: Frane
+  - family-names: Barle
+    given-names: Jani
+version: 1.0.0
+date-released: 2026-10-29
+license: MIT
+repository-code: "https://github.com/IvoKragic/composite-transverse-modulus-mcmc"
+keywords:
+  - Bayesian inference
+  - MCMC
+  - model selection
+  - micromechanics
+  - composite materials

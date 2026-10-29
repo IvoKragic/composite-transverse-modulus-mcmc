@@ -1,0 +1,16 @@
+data/E2podaci.dat
+=================
+
+The 15 (Vf, E2) pairs in this file were digitised by the authors of the accompanying
+manuscript from the published figures of:
+
+    Tsai SW. Structural Behavior of Composite Materials.
+    NASA CR-71. Washington, DC: National Aeronautics and Space Administration; 1964.
+
+The source report is a US Government work and is in the public domain. The digitised
+numbers themselves are facts and are dedicated to the public domain under CC0 1.0.
+
+If you use this dataset, please cite the original report (Reference 4 in the paper)
+and this repository.
+
+Columns: Vf (fibre volume fraction, -)   E2 (transverse modulus, GPa)
